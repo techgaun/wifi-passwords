@@ -11,3 +11,4 @@ I roam around the city and work from various restaurants mostly in Kathmandu and
 ---------------------------|----------------------------|--------------------
 Mezze, Durbarmarg          | mezzebyroadhouse_2         | clearcut77
 Masala Cottage, Baneshwor  | masala_cottage             | 9851133900
+Villa Everest, Thamel      | villa everest              | koreanfood1
